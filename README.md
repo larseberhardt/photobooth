@@ -14,8 +14,8 @@ Its also using the gphoto library.
 
 # Installation
 
-• If you want the the script starts at boot, place the script in your rc.local "sudo python /home/pi/photobooth/photobooth.py &"
-• Edit the pictures in the path "img" and save them in the resolution of your monitor
-• Be sure that you installed gphoto2 and fbi
-• Check if all paths are correct
-• Have fun with you photobox on your next BBQ
+* If you want that the script starts at boot, place "sudo python /home/pi/photobooth/photobooth.py &" in your rc.local
+* Edit the pictures in the path "img" and save them in the resolution of your monitor
+* Be sure that you installed gphoto2 and fbi
+* Check if all paths are correct
+* Have fun with you photobox on your next BBQ
