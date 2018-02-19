@@ -18,4 +18,4 @@ Its also using the gphoto library.
 * Edit the pictures in the path "img" and save them in the resolution of your monitor
 * Be sure that you installed gphoto2 and fbi
 * Check if all paths are correct
-* Have fun with you photobooth on your next BBQ
+* Have fun with your photobooth on your next BBQ
